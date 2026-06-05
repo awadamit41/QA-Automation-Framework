@@ -1,0 +1,16 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Screenshots (optional)
+screenshots/
+
+# OS Files
+Thumbs.db
