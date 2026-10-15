@@ -12,7 +12,7 @@ public class LoginPage {
         this.driver = driver;
     }
 
-    // Locators
+    
     By username = By.id("username");
     By password = By.id("password");
     By loginBtn = By.id("loginBtn");
