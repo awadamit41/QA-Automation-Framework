@@ -7,7 +7,6 @@ public class LoginPage {
 
     WebDriver driver;
 
-    // Constructor
     public LoginPage(WebDriver driver) {
         this.driver = driver;
     }
